@@ -4,9 +4,9 @@ This repository showcases a series of innovative examples demonstrating the capa
 
 ## Contents
 
-- [Example 1: AutoGen Analytics on Real Estate Data](#example-1-autogen-analytics-on-real-estate-data)  https://youtu.be/9-rj3gJNfl4
-- [Example 2: Vercel and Supabase Vector DB with OpenAI and LLMs](#example-2-vercel-and-supabase-vector-db-with-openai-and-llms) https://youtu.be/Ql9iGF2IcRA
-- [Example 3: AutoAgent Web App Add-On for AutoGen](#example-3-autoagent-web-app-add-on-for-autogen) https://youtu.be/t2ovFI4625A
+- [Example 1: AutoGen Analytics on Real Estate Data](#example-1-autogen-analytics-on-real-estate-data) - [Watch Video](https://youtu.be/9-rj3gJNfl4)
+- [Example 2: Vercel and Supabase Vector DB with OpenAI and LLMs](#example-2-vercel-and-supabase-vector-db-with-openai-and-llms) - [Watch Video](https://youtu.be/Ql9iGF2IcRA)
+- [Example 3: AutoAgent Web App Add-On for AutoGen](#example-3-autoagent-web-app-add-on-for-autogen) - [Watch Video](https://youtu.be/t2ovFI4625A)
 
 ### Example 1: AutoGen Analytics on Real Estate Data
 
@@ -16,7 +16,7 @@ This example illustrates AutoGen's ability to analyze a CSV file containing real
 - Identifying potential KPIs based on header names and data types.
 - Generating a Python script to calculate industry-specific KPIs and plotting the results.
 
-**Video Demonstration:** [AutoGen Real Estate Analytics]([<link-to-video>](https://youtu.be/9-rj3gJNfl4))
+**Video Demonstration:** [AutoGen Real Estate Analytics](https://youtu.be/9-rj3gJNfl4)
 
 ### Example 2: Vercel and Supabase Vector DB with OpenAI and LLMs
 
@@ -26,7 +26,7 @@ A demonstration of an out-of-the-box solution combining Vercel, Supabase as a ve
 - User interaction with a chat interface showcasing AI's dynamic response capabilities.
 - Illustrates how embeddings are added and indexed in the vector DB, enabling the AI to reference updated information without retraining.
 
-**Video Demonstration:** [Vercel Vector DB and AI Integration]([<link-to-video>](https://youtu.be/Ql9iGF2IcRA))
+**Video Demonstration:** [Vercel Vector DB and AI Integration](https://youtu.be/Ql9iGF2IcRA)
 
 ### Example 3: AutoAgent Web App Add-On for AutoGen
 
@@ -36,7 +36,7 @@ Showcasing the AutoAgent, an open-source web app add-on released in September 20
 - Features an AI role that builds a skill set for specific tasks.
 - Example task: Programming a Pacman Game in Python.
 
-**Video Demonstration:** [AutoAgent Web App Functionality]([<link-to-video>](https://youtu.be/t2ovFI4625A))
+**Video Demonstration:** [AutoAgent Web App Functionality](https://youtu.be/t2ovFI4625A)
 
 ## Getting Started
 
