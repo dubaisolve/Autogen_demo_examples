@@ -4,9 +4,9 @@ This repository showcases a series of innovative examples demonstrating the capa
 
 ## Contents
 
-- [Example 1: AutoGen Analytics on Real Estate Data](#example-1-autogen-analytics-on-real-estate-data)
-- [Example 2: Vercel and Supabase Vector DB with OpenAI and LLMs](#example-2-vercel-and-supabase-vector-db-with-openai-and-llms)
-- [Example 3: AutoAgent Web App Add-On for AutoGen](#example-3-autoagent-web-app-add-on-for-autogen)
+- [Example 1: AutoGen Analytics on Real Estate Data](#example-1-autogen-analytics-on-real-estate-data)  https://youtu.be/9-rj3gJNfl4
+- [Example 2: Vercel and Supabase Vector DB with OpenAI and LLMs](#example-2-vercel-and-supabase-vector-db-with-openai-and-llms) https://youtu.be/Ql9iGF2IcRA
+- [Example 3: AutoAgent Web App Add-On for AutoGen](#example-3-autoagent-web-app-add-on-for-autogen) https://youtu.be/t2ovFI4625A
 
 ### Example 1: AutoGen Analytics on Real Estate Data
 
